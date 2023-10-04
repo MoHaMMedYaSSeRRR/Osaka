@@ -1,2 +1,0 @@
-# Osaka
-Osaka Website
